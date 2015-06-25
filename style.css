@@ -33,17 +33,93 @@ body {
 #worship {
 	position:absolute;
 	margin-left:710px;
-	margin-top:130px;
+	margin-top:125px;
+	width:250px;
 }
 
 #sunday{
 	color:#FF894F;
-	font-size: 25px;
-	border-bottom:1px dotted #000000;
+	font-size: 22px;
+	border-bottom:2px dotted #000000;
   	/*color:#fff;*/
   	/*background-color:#fff;*/
   	height:1px;
   	width:50%;
+}
+
+#sunday2{
+	color:black;
+	font-size: 18px;
+}
+
+#worshipContent{
+	color:#616372;
+	font-size: 15px;
+}
+
+#reals{
+	font-weight: bold;
+}
+
+#logo_small{
+	position:absolute;
+	margin-top:470px;
+	margin-left:70px;
+}
+
+#small_info{
+	position:absolute;
+	color:#616372;
+	font-size: 12px;
+	margin-top: 530px;
+	margin-left:70px;
+}
+
+#fb_small{
+	position:absolute;
+	margin-top:488px;
+	margin-left:850px;
+	height:35px;
+	width:35px;
+}
+
+#twitter_small{
+	position:absolute;
+	margin-top:490px;
+	margin-left:890px;
+	height:31px;
+	width:31px;
+}
+
+#rights{
+	position:absolute;
+	color:#616372;
+	font-size:10px;
+	margin-top:645px;
+	margin-left:70px;
+}
+
+#relation{
+	position:absolute;
+	color:#616372;
+	font-size:10px;
+	margin-top:645px;
+	margin-left:770px;
+}
+
+.img-zoom {
+    width: 310px;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+}
+ 
+.transition {
+    -webkit-transform: scale(2); 
+    -moz-transform: scale(2);
+    -o-transform: scale(2);
+    transform: scale(2);
 }
 
 #link_nfc{
@@ -170,7 +246,7 @@ body {
 
 #crossfade > img { 
     width: 620px;
-    height: 300px;
+    height: 330px;
     position: absolute;
     top: 130px;
     left: 70px;
