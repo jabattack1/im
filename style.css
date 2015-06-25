@@ -27,6 +27,23 @@ body {
 	border-radius:80px;
 	background-color: white;
 	z-index:2;
+	cursor:pointer
+}
+
+#worship {
+	position:absolute;
+	margin-left:710px;
+	margin-top:130px;
+}
+
+#sunday{
+	color:#FF894F;
+	font-size: 25px;
+	border-bottom:1px dotted #000000;
+  	/*color:#fff;*/
+  	/*background-color:#fff;*/
+  	height:1px;
+  	width:50%;
 }
 
 #link_nfc{
@@ -62,6 +79,7 @@ body {
 	border-radius:80px;
 	background-color: white;
 	z-index:2;
+	cursor:pointer
 }
 
 
@@ -71,6 +89,15 @@ body {
 	height:270px;
 	margin-left:360px;
 	margin-top:110px;
+}
+
+#home_logo2{
+	position:absolute;
+	width:150px;
+	height:110px;
+	margin-left:70px;
+	margin-top:5px;
+	cursor:pointer
 }
 
 #demo{
@@ -142,8 +169,8 @@ body {
 
 
 #crossfade > img { 
-    width: 860px;
-    height: 440px;
+    width: 620px;
+    height: 300px;
     position: absolute;
     top: 130px;
     left: 70px;
