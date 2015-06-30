@@ -27,7 +27,8 @@ body {
 	border-radius:80px;
 	background-color: white;
 	z-index:2;
-	cursor:pointer
+	cursor:pointer;
+	font-family: 'Montserrat', Georgia, Times, serif;
 }
 
 #worship {
@@ -46,6 +47,7 @@ body {
 
 #sunday{
 	color:#FF894F;
+	font-family: 'Montserrat', Georgia, Times, serif;
 	font-size: 22px;
 	border-bottom:2px dotted #000000;
   	/*color:#fff;*/
@@ -66,6 +68,7 @@ body {
 
 #aboutabout{
 	color:#0992C4;
+	font-family: 'Montserrat', Georgia, Times, serif;
 	font-size: 25px;
 	/*border-bottom:2px dotted #000000;*/
   	/*color:#fff;*/
@@ -77,6 +80,7 @@ body {
 #aboutContent{
 	position:absolute;
 	color:#616372;
+	font-family: 'Montserrat', Georgia, Times, serif;
 	font-size: 15px;
 	margin-top:130px;
 	margin-left:70px;
@@ -100,6 +104,7 @@ body {
 #small_info{
 	position:absolute;
 	color:#616372;
+	font-family: 'Montserrat', Georgia, Times, serif;
 	font-size: 12px;
 	margin-top: 530px;
 	margin-left:70px;
@@ -124,6 +129,7 @@ body {
 #rights{
 	position:absolute;
 	color:#616372;
+	font-family: 'Montserrat', Georgia, Times, serif;
 	font-size:10px;
 	margin-top:645px;
 	margin-left:70px;
@@ -132,6 +138,7 @@ body {
 #relation{
 	position:absolute;
 	color:#616372;
+	font-family: 'Montserrat', Georgia, Times, serif;
 	font-size:10px;
 	margin-top:645px;
 	margin-left:780px;
@@ -226,7 +233,8 @@ body {
     /*color: #666;*/
     text-align: center;
 
-    font: 18px Arial, sans-serif;
+    font: 18px;
+    font-family: 'Montserrat', Georgia, Times, serif;
     color:white;
     margin-top:525px;
     margin-left:57px;
@@ -246,7 +254,8 @@ body {
     /*color: #666;*/
     text-align: center;
 
-    font: 18px Arial, sans-serif;
+    font: 18px;
+    font-family: 'Montserrat', Georgia, Times, serif;
     color:white;
     margin-top:525px;
     margin-left:345px;
@@ -266,7 +275,8 @@ body {
     /*color: #666;*/
     text-align: center;
 
-    font: 18px Arial, sans-serif;
+    font: 18px;
+    font-family: 'Montserrat', Georgia, Times, serif;
     color:white;
     margin-top:525px;
     margin-left:665px;
@@ -498,7 +508,7 @@ body {
             margin-left:160px; 
             
         /* styling: */
-            font-family:"Belleza",Arial,sans-serif;
+            font-family: 'Montserrat', Georgia, Times, serif;
             font-weight: normal;
             font-size: 25px;
         }
@@ -715,6 +725,7 @@ body {
 
 #core{
 	color:#FF894F;
+	font-family: 'Montserrat', Georgia, Times, serif;
 	font-size: 22px;
 	/*border-bottom:2px dotted #000000;
   	/*color:#fff;*/
@@ -725,6 +736,7 @@ body {
 
 #adoration{
 	color:#0992C4;
+	font-family: 'Montserrat', Georgia, Times, serif;
 	font-size: 20px;
 	/*border-bottom:2px dotted #000000;
   	/*color:#fff;*/
@@ -735,6 +747,7 @@ body {
 
 #compassion{
 	color:#0992C4;
+	font-family: 'Montserrat', Georgia, Times, serif;
 	font-size: 20px;
 	/*border-bottom:2px dotted #000000;
   	/*color:#fff;*/
@@ -745,6 +758,7 @@ body {
 
 #education{
 	color:#0992C4;
+	font-family: 'Montserrat', Georgia, Times, serif;
 	font-size: 20px;
 	/*border-bottom:2px dotted #000000;
   	/*color:#fff;*/
@@ -755,6 +769,7 @@ body {
 
 #unification{
 	color:#0992C4;
+	font-family: 'Montserrat', Georgia, Times, serif;
 	font-size: 20px;
 	/*border-bottom:2px dotted #000000;
   	/*color:#fff;*/
@@ -769,11 +784,13 @@ body {
 	margin-left:70px;
 	font-size: 15px;
 	color:#616372;
+	font-family: 'Montserrat', Georgia, Times, serif;
 	width:850px;
 }
 
 #mission_title{
 	color:#0992C4;
+	font-family: 'Montserrat', Georgia, Times, serif;
 	font-size: 25px;
 	/*border-bottom:2px dotted #000000;*/
   	/*color:#fff;*/
@@ -785,6 +802,7 @@ body {
 
 #evangelical{
 	color:#FF894F;
+	font-family: 'Montserrat', Georgia, Times, serif;
 	font-size: 20px;
 	/*border-bottom:2px dotted #000000;*/
   	/*color:#fff;*/
@@ -795,6 +813,7 @@ body {
 
 #apostle{
 	color:#0992C4;
+	font-family: 'Montserrat', Georgia, Times, serif;
 	font-size: 20px;
 	/*border-bottom:2px dotted #000000;
   	/*color:#fff;*/
@@ -806,6 +825,7 @@ body {
 #discipleship_stuff{
 	position:absolute;
 	color:#616372;
+	font-family: 'Montserrat', Georgia, Times, serif;
 	font-size: 15px;
 	margin-top:130px;
 	margin-left:70px;
@@ -815,6 +835,7 @@ body {
 #discipleship_title{
 	color:#0992C4;
 	font-size: 25px;
+	font-family: 'Montserrat', Georgia, Times, serif;
 	/*border-bottom:2px dotted #000000;*/
   	/*color:#fff;*/
   	/*background-color:#fff;*/
