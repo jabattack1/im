@@ -623,12 +623,12 @@ body {
 
 .marquee {
     width: 850px;
-    margin-left:73px;
+    margin-left:70px;
     margin-top:435px;
     overflow: hidden;
     white-space: nowrap;
     box-sizing: border-box;
-    animation: marquee 35s linear infinite;
+    animation: marquee 95s linear infinite;
 }
 
 .marquee:hover {
@@ -637,19 +637,39 @@ body {
 
 /* Make it move */
 @keyframes marquee {
-    0%   { text-indent: 27.5em }
-    100% { text-indent: -105em }
+    0%   { text-indent: 57em }
+    100% { text-indent: -705em }
 }
 
+
+.marquee1 {
+    width: 850px;
+    margin-left:70px;
+    margin-top:435px;
+    overflow: hidden;
+    white-space: nowrap;
+    box-sizing: border-box;
+    animation: marquee 95s linear infinite;
+}
+
+.marquee1:hover {
+    animation-play-state: paused
+}
+
+/* Make it move */
+@keyframes marquee1 {
+    0%   { text-indent: 57em }
+    100% { text-indent: -105em }
+}
 /* Make it pretty */
 /*.microsoft {
     padding-left: 1.5em;
     position: relative;
     font: 16px 'Segoe UI', Tahoma, Helvetica, Sans-Serif;
-}*/
+}
 
-/* ::before was :before before ::before was ::before - kthx */
-/*.microsoft:before, .microsoft::before {
+ ::before was :before before ::before was ::before - kthx 
+.microsoft:before, .microsoft::before {
     z-index: 2;
     content: '';
     position: absolute;
@@ -659,25 +679,25 @@ body {
         		1.6em 1.25em 0 #7CBB00,
         		1.0em 1.85em 0 #00A1F1,
         		1.6em 1.85em 0 #FFBB00;
-}*/
+}
 
-/*.microsoft:after, .microsoft::after {
+.microsoft:after, .microsoft::after {
     z-index: 1;
     content: '';
     position: absolute;
     top: 0; left: 0;
     width: 2em; height: 2em;
     background-image: linear-gradient(90deg, white 70%, rgba(255,255,255,0));
-}*/
+}
 
-/* Style the links */
+ Style the links 
 .vanity {
     color: #333;
     text-align: center;
     font: 1em 'Segoe UI', Tahoma, Helvetica, Sans-Serif;
 }
 
-/*.vanity a, .microsoft a {
+.vanity a, .microsoft a {
     color: #1570A6;
     transition: color .5s;
     text-decoration: none;
@@ -696,7 +716,84 @@ body {
 #core{
 	color:#FF894F;
 	font-size: 22px;
+	/*border-bottom:2px dotted #000000;
+  	/*color:#fff;*/
+  	/*background-color:#fff;*/
+  	height:1px;
+  	width:50%;
+}
+
+#adoration{
+	color:#0992C4;
+	font-size: 20px;
+	/*border-bottom:2px dotted #000000;
+  	/*color:#fff;*/
+  	/*background-color:#fff;*/
+  	height:1px;
+  	width:50%;
+}
+
+#compassion{
+	color:#0992C4;
+	font-size: 20px;
+	/*border-bottom:2px dotted #000000;
+  	/*color:#fff;*/
+  	/*background-color:#fff;*/
+  	height:1px;
+  	width:50%;
+}
+
+#education{
+	color:#0992C4;
+	font-size: 20px;
+	/*border-bottom:2px dotted #000000;
+  	/*color:#fff;*/
+  	/*background-color:#fff;*/
+  	height:1px;
+  	width:50%;
+}
+
+#unification{
+	color:#0992C4;
+	font-size: 20px;
+	/*border-bottom:2px dotted #000000;
+  	/*color:#fff;*/
+  	/*background-color:#fff;*/
+  	height:1px;
+  	width:50%;
+}
+
+#mission_link{
+	position:absolute;
+	margin-top:130px;
+	margin-left:70px;
+}
+
+#mission_title{
+	color:#0992C4;
+	font-size: 25px;
 	/*border-bottom:2px dotted #000000;*/
+  	/*color:#fff;*/
+  	/*background-color:#fff;*/
+  	height:1px;
+  	width:50%;
+  	/*font-weight:bold;*/
+}
+
+#evangelical{
+	color:#FF894F;
+	font-size: 20px;
+	/*border-bottom:2px dotted #000000;*/
+  	/*color:#fff;*/
+  	/*background-color:#fff;*/
+  	height:1px;
+  	width:50%;
+}
+
+#apostle{
+	color:#0992C4;
+	font-size: 20px;
+	/*border-bottom:2px dotted #000000;
   	/*color:#fff;*/
   	/*background-color:#fff;*/
   	height:1px;
