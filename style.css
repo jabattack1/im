@@ -767,6 +767,9 @@ body {
 	position:absolute;
 	margin-top:130px;
 	margin-left:70px;
+	font-size: 15px;
+	color:#616372;
+	width:850px;
 }
 
 #mission_title{
@@ -798,4 +801,24 @@ body {
   	/*background-color:#fff;*/
   	height:1px;
   	width:50%;
+}
+
+#discipleship_stuff{
+	position:absolute;
+	color:#616372;
+	font-size: 15px;
+	margin-top:130px;
+	margin-left:70px;
+	width:850px;
+}
+
+#discipleship_title{
+	color:#0992C4;
+	font-size: 25px;
+	/*border-bottom:2px dotted #000000;*/
+  	/*color:#fff;*/
+  	/*background-color:#fff;*/
+  	height:1px;
+  	width:50%;
+  	/*font-weight:bold;*/
 }
