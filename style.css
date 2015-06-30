@@ -784,7 +784,7 @@ body {
 	position:absolute;
 	margin-top:130px;
 	margin-left:70px;
-	font-size: 15px;
+	font-size: 14px;
 	color:#616372;
 	font-family: 'Montserrat', Georgia, Times, serif;
 	width:850px;
@@ -793,7 +793,7 @@ body {
 #mission_title{
 	color:#0992C4;
 	font-family: 'Montserrat', Georgia, Times, serif;
-	font-size: 25px;
+	font-size: 20px;
 	/*border-bottom:2px dotted #000000;*/
   	/*color:#fff;*/
   	/*background-color:#fff;*/
@@ -828,7 +828,7 @@ body {
 	position:absolute;
 	color:#616372;
 	font-family: 'Montserrat', Georgia, Times, serif;
-	font-size: 15px;
+	font-size: 14px;
 	margin-top:130px;
 	margin-left:70px;
 	width:850px;
@@ -836,7 +836,7 @@ body {
 
 #discipleship_title{
 	color:#0992C4;
-	font-size: 25px;
+	font-size: 20px;
 	font-family: 'Montserrat', Georgia, Times, serif;
 	/*border-bottom:2px dotted #000000;*/
   	/*color:#fff;*/
