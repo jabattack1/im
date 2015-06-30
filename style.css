@@ -243,7 +243,7 @@ body {
     /*color: #666;*/
     text-align: center;
 
-    font: 16px;
+    font: 19px;
     font-family: 'Montserrat', Georgia, Times, serif;
     color:white;
     margin-top:525px;
@@ -264,7 +264,7 @@ body {
     /*color: #666;*/
     text-align: center;
 
-    font: 16px;
+    font: 19px;
     font-family: 'Montserrat', Georgia, Times, serif;
     color:white;
     margin-top:525px;
@@ -272,6 +272,7 @@ body {
 }
 
 .mailCircle {
+    font-family: 'Montserrat', Georgia, Times, serif;
 	position:absolute;
     border-radius: 50%;
     behavior: url(PIE.htc); /* remove if you don't care about IE8 */
@@ -285,8 +286,7 @@ body {
     /*color: #666;*/
     text-align: center;
 
-    font: 16px;
-    font-family: 'Montserrat', Georgia, Times, serif;
+    font: 19px;
     color:white;
     margin-top:525px;
     margin-left:665px;
