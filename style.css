@@ -182,48 +182,6 @@ body {
 	font-size:19px;
 }
 
-#link_nfc1{
-	position:absolute;
-	margin-top:535px;
-	margin-left:100px;
-	font-size:19px;
-}
-
-#link_fb1{
-	position:absolute;
-	margin-top:535px;
-	margin-left:390px;
-	font-size:19px;
-}
-
-#link_email1{
-	position:absolute;
-	margin-top:535px;
-	margin-left:710px;
-	font-size:19px;
-}
-
-#link_nfc2{
-	position:absolute;
-	margin-top:535px;
-	margin-left:100px;
-	font-size:19px;
-}
-
-#link_fb2{
-	position:absolute;
-	margin-top:535px;
-	margin-left:390px;
-	font-size:19px;
-}
-
-#link_email2{
-	position:absolute;
-	margin-top:535px;
-	margin-left:710px;
-	font-size:19px;
-}
-
 #home2{
 	position:absolute;
 	width:1000px;
