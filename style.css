@@ -728,7 +728,7 @@ body {
 #core{
 	color:#FF894F;
 	font-family: 'Montserrat', Georgia, Times, serif;
-	font-size: 22px;
+	font-size: 17px;
 	/*border-bottom:2px dotted #000000;
   	/*color:#fff;*/
   	/*background-color:#fff;*/
@@ -739,7 +739,7 @@ body {
 #adoration{
 	color:#0992C4;
 	font-family: 'Montserrat', Georgia, Times, serif;
-	font-size: 20px;
+	font-size: 17px;
 	/*border-bottom:2px dotted #000000;
   	/*color:#fff;*/
   	/*background-color:#fff;*/
@@ -750,7 +750,7 @@ body {
 #compassion{
 	color:#0992C4;
 	font-family: 'Montserrat', Georgia, Times, serif;
-	font-size: 20px;
+	font-size: 17px;
 	/*border-bottom:2px dotted #000000;
   	/*color:#fff;*/
   	/*background-color:#fff;*/
@@ -761,7 +761,7 @@ body {
 #education{
 	color:#0992C4;
 	font-family: 'Montserrat', Georgia, Times, serif;
-	font-size: 20px;
+	font-size: 17px;
 	/*border-bottom:2px dotted #000000;
   	/*color:#fff;*/
   	/*background-color:#fff;*/
@@ -772,7 +772,7 @@ body {
 #unification{
 	color:#0992C4;
 	font-family: 'Montserrat', Georgia, Times, serif;
-	font-size: 20px;
+	font-size: 17px;
 	/*border-bottom:2px dotted #000000;
   	/*color:#fff;*/
   	/*background-color:#fff;*/
@@ -816,7 +816,7 @@ body {
 #apostle{
 	color:#0992C4;
 	font-family: 'Montserrat', Georgia, Times, serif;
-	font-size: 20px;
+	font-size: 17px;
 	/*border-bottom:2px dotted #000000;
   	/*color:#fff;*/
   	/*background-color:#fff;*/
@@ -870,4 +870,26 @@ body {
 
 #listenWell{
 	font-weight: bold;
+}
+
+#join{
+	color:#0992C4;
+	font-family: 'Montserrat', Georgia, Times, serif;
+	font-size: 17px;
+	/*border-bottom:2px dotted #000000;
+  	/*color:#fff;*/
+  	/*background-color:#fff;*/
+  	height:1px;
+  	width:50%;
+}
+
+#how{
+	color:#0992C4;
+	font-family: 'Montserrat', Georgia, Times, serif;
+	font-size: 17px;
+	/*border-bottom:2px dotted #000000;
+  	/*color:#fff;*/
+  	/*background-color:#fff;*/
+  	height:1px;
+  	width:50%;
 }
