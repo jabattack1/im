@@ -233,7 +233,7 @@ body {
     /*color: #666;*/
     text-align: center;
 
-    font: 18px;
+    font: 14px;
     font-family: 'Montserrat', Georgia, Times, serif;
     color:white;
     margin-top:525px;
@@ -254,7 +254,7 @@ body {
     /*color: #666;*/
     text-align: center;
 
-    font: 18px;
+    font: 14px;
     font-family: 'Montserrat', Georgia, Times, serif;
     color:white;
     margin-top:525px;
@@ -275,7 +275,7 @@ body {
     /*color: #666;*/
     text-align: center;
 
-    font: 18px;
+    font: 14px;
     font-family: 'Montserrat', Georgia, Times, serif;
     color:white;
     margin-top:525px;
@@ -510,7 +510,7 @@ body {
         /* styling: */
             font-family: 'Montserrat', Georgia, Times, serif;
             font-weight: normal;
-            font-size: 21px;
+            font-size: 22px;
         }
         
         /* we're using the direct descendant selectors > to ONLY affect the main menu items */
