@@ -510,7 +510,7 @@ body {
         /* styling: */
             font-family: 'Montserrat', Georgia, Times, serif;
             font-weight: normal;
-            font-size: 20px;
+            font-size: 21px;
         }
         
         /* we're using the direct descendant selectors > to ONLY affect the main menu items */
