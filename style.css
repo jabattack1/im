@@ -48,7 +48,7 @@ body {
 #sunday{
 	color:#FF894F;
 	font-family: 'Montserrat', Georgia, Times, serif;
-	font-size: 22px;
+	font-size: 20px;
 	border-bottom:2px dotted #000000;
   	/*color:#fff;*/
   	/*background-color:#fff;*/
@@ -63,7 +63,7 @@ body {
 
 #worshipContent{
 	color:#616372;
-	font-size: 15px;
+	font-size: 11px;
 }
 
 #aboutabout{
