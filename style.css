@@ -71,7 +71,7 @@ body {
 #aboutabout{
 	color:#0992C4;
 	font-family: 'Montserrat', Georgia, Times, serif;
-	font-size: 25px;
+	font-size: 20px;
 	/*border-bottom:2px dotted #000000;*/
   	/*color:#fff;*/
   	/*background-color:#fff;*/
@@ -83,7 +83,7 @@ body {
 	position:absolute;
 	color:#616372;
 	font-family: 'Montserrat', Georgia, Times, serif;
-	font-size: 15px;
+	font-size: 14px;
 	margin-top:130px;
 	margin-left:70px;
 	width:850px;
