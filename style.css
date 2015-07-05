@@ -940,3 +940,17 @@ width:100px;
 -webkit-transform:scale(1.3);
 -o-transform:scale(1.3);
 }
+
+.zoom_img1 img{
+margin:50px;
+height:100px;
+width:100px;
+-moz-transition:-moz-transform 0.5s ease-in; 
+-webkit-transition:-webkit-transform 0.5s ease-in; 
+-o-transition:-o-transform 0.5s ease-in;
+}
+.zoom_img1 img:hover{
+-moz-transform:scale(1.1); 
+-webkit-transform:scale(1.1);
+-o-transform:scale(1.1);
+}
