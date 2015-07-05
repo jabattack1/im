@@ -172,7 +172,7 @@ body {
 #link_nfc{
 	position:absolute;
 	font-family: 'Montserrat', Georgia, Times, serif;
-	margin-top:565px;
+	margin-top:575px;
 	margin-left:100px;
 	font-size:19px;
 	text-decoration: none;
@@ -190,7 +190,7 @@ body {
 #link_fb{
 	position:absolute;
 	font-family: 'Montserrat', Georgia, Times, serif;
-	margin-top:565px;
+	margin-top:575px;
 	margin-left:390px;
 	font-size:19px;
 	text-decoration: none;
@@ -204,7 +204,7 @@ body {
 #link_email{
 	position:absolute;
 	font-family: 'Montserrat', Georgia, Times, serif;
-	margin-top:565px;
+	margin-top:575px;
 	margin-left:710px;
 	font-size:19px;
 	text-decoration: none;
@@ -271,7 +271,7 @@ body {
     font: 19px;
     font-family: 'Montserrat', Georgia, Times, serif;
     color:white;
-    margin-top:555px;
+    margin-top:565px;
     margin-left:57px;
 }
 
@@ -292,7 +292,7 @@ body {
     font: 19px;
     font-family: 'Montserrat', Georgia, Times, serif;
     color:white;
-    margin-top:555px;
+    margin-top:565px;
     margin-left:345px;
 }
 
@@ -313,7 +313,7 @@ body {
 
     font: 19px;
     color:white;
-    margin-top:555px;
+    margin-top:565px;
     margin-left:665px;
 }
 
