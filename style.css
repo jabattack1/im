@@ -1032,6 +1032,10 @@ body {
 	font-size:14px;
 }
 
+#public_bold{
+	font-style:bold;
+}
+
 .zoom_img img{
 margin:50px;
 height:100px;
