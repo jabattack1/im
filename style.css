@@ -1023,6 +1023,12 @@ body {
 	margin-top:40px;
 }
 
+#transportation{
+	position:absolute;
+	margin-top:200px;
+	width:300px;
+}
+
 .zoom_img img{
 margin:50px;
 height:100px;
