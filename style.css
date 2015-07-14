@@ -1001,9 +1001,9 @@ body {
 
 #getting_here{
 	position:absolute;
-	color:#616372;
+	color:#FF894F;
 	font-family: 'Montserrat', Georgia, Times, serif;
-	font-size: 14px;
+	font-size: 17px;
 	/*border-bottom:2px dotted #000000;*/
   	/*color:#fff;*/
   	/*background-color:#fff;*/
@@ -1027,7 +1027,7 @@ body {
 	position:absolute;
 	margin-top:200px;
 	width:300px;
-	color:#FF894F;
+	color:#616372;
 	font-family: 'Montserrat', Georgia, Times, serif;
 }
 
