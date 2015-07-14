@@ -358,6 +358,47 @@ function contactPage(){
     }, 820);    
 }
 
+function contactFromWorship(){
+	$('#content').empty();
+    $('#content').append(worship2);
+     setTimeout(function() {
+        $('#content').append(contact1);
+    }, 820);
+}
+
+function contactFromAbout(){
+	$('#content').empty();
+    $('#content').append(about2);
+     setTimeout(function() {
+        $('#content').append(contact1);
+    }, 820);
+}
+
+function contactFromMission(){
+	$('#content').empty();
+    $('#content').append(mission2);
+     setTimeout(function() {
+        $('#content').append(contact1);
+    }, 820);
+}
+
+function contactFromDiscipleship(){
+	$('#content').empty();
+    $('#content').append(discipleship2);
+     setTimeout(function() {
+        $('#content').append(contact1);
+    }, 820);
+}
+
+function contactFromServing(){
+	$('#content').empty();
+    $('#content').append(serving2);
+     setTimeout(function() {
+        $('#content').append(contact1);
+    }, 820);
+}
+
+
 function submit_button(){
 	alert("Hello! This is a test site.  Please go to www.nfcimplus.com to message us!!");   
 }
