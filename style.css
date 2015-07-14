@@ -937,22 +937,61 @@ body {
 	width:850px;
 }
 
+#contact_title{
+	color:#0992C4;
+	font-size: 20px;
+	font-family: 'Montserrat', Georgia, Times, serif;
+	/*border-bottom:2px dotted #000000;*/
+  	/*color:#fff;*/
+  	/*background-color:#fff;*/
+  	height:1px;
+  	width:50%;
+  	/*font-weight:bold;*/
+}
+
+#send_us{
+	color:#FF894F;
+	font-family: 'Montserrat', Georgia, Times, serif;
+	font-size: 17px;
+	/*border-bottom:2px dotted #000000;*/
+  	/*color:#fff;*/
+  	/*background-color:#fff;*/
+  	height:1px;
+  	width:50%;
+}
+
 #full_name{
-	width:200px;
+	width:180px;
 }
 
 #email_address{
-	width:200px;
+	width:180px;
+	margin-top:-51px;
+	margin-left:220px;
+}
+#email_head{
+	margin-left:179px;
+}
+#subject{
+	width:180px;
+	margin-top:-40px;
 }
 
-#subject{
-	width:200px;
+#subject_head{
+	position:absolute;
+	margin-top:100px;
+}
+
+#message_head{
+	position:absolute;
+	margin-top:145px;
 }
 
 #message_box{
 	width:400px;
 	height:110px;
 	resize: none;
+	margin-top:-27px;
 }
 
 #submit_button{
