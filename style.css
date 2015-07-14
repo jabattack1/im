@@ -1033,7 +1033,7 @@ body {
 }
 
 #public_bold{
-	font-style:bold;
+	font-weight:bold;
 }
 
 .zoom_img img{
