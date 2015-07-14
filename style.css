@@ -974,7 +974,7 @@ body {
 }
 #subject{
 	width:180px;
-	margin-top:-15px;
+	margin-top:-17px;
 }
 
 #subject_head{
@@ -991,7 +991,7 @@ body {
 	width:400px;
 	height:110px;
 	resize: none;
-	margin-top:-27px;
+	margin-top:0px;
 }
 
 #submit_button{
