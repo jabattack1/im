@@ -966,7 +966,7 @@ body {
 
 #email_address{
 	width:180px;
-	margin-top:-51px;
+	/*margin-top:-51px;*/
 	margin-left:220px;
 }
 #email_head{
