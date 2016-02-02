@@ -4,6 +4,7 @@
 
   <script src="jquery.js"></script>
   <script src="scripts.js"></script>
+  <script src='https://cdn.firebase.com/js/client/2.2.1/firebase.js'></script>
   <link rel="stylesheet" media="all" href="style.css" />
   <link rel="stylesheet" media="all" href="animate.css" />
   <meta charset="UTF-8">
@@ -33,6 +34,8 @@
 <link rel="shortcut icon" href='./images/logo2.png'>
 
 <body id='main'>
+	
+</script>
 
 <div id='content'>	
 <div id='home' onClick="homey1();return false;">
@@ -46,6 +49,9 @@
 	<a id='link_email'  href="mailto:hello@nfcimplus.com">hello@nfcimplus.com</a>
 </div>
 
-<div id='rights'>© 2015 NFC IM+</div><div id='relation'>In partnership with New Frontier Church</div>
+<div id='rights'>© <script type="text/javascript">
+var theDate=new Date()
+document.write(theDate.getFullYear())
+</script> NFC IM+</div><div id='relation'>In partnership with New Frontier Church</div>
 </body>
 </html>
